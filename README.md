@@ -1,0 +1,1 @@
+# statemachine-generator-releases
