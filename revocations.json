@@ -1,12 +1,12 @@
 {
   "payload": {
     "format": 1,
-    "sequence": 1791757543,
-    "issued": "2026-10-11T22:25:43+00:00",
+    "sequence": 1791757552,
+    "issued": "2026-10-11T22:25:52+00:00",
     "revoked": [
       "SMG-2026-0001",
       "SMG-2026-0002"
     ]
   },
-  "signature": "gBS/XD8zk1DKZUNFshL0yCsf2LqvixbRaj+J/3U/f4F6TPjOkbwwVBw9zMgFWT24lxpS8KVieznoQKl9+TNLAw=="
+  "signature": "yskPIvQxWieavZxH3i1Kysq9PG0G0vdZB7PKUSpLndUg1Ie1R0dOfAMJ4JoovTRwdETY/CmS934g1p17ywsCCw=="
 }
